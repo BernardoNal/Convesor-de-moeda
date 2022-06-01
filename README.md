@@ -1,4 +1,5 @@
-# convesor
+# Convesor de moeda
+  modelo base de treinamento
 
 ## Project setup
 ```
